@@ -1,3 +1,5 @@
+opencv-headless-python
+opencv-python
 ultralytics
 pillow
 scikit-learn
