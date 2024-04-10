@@ -3,3 +3,4 @@ opencv-python
 ultralytics
 pillow
 scikit-learn
+reportlab
